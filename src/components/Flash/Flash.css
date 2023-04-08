@@ -1,0 +1,9 @@
+.swim-container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  /* Add any other necessary styles for the Swim component */
+  
